@@ -1,4 +1,5 @@
-[
-    "https://www.youtube-nocookie.com/embed/K_Fb7EEL2eQ?controls=0",
-    "https://www.youtube-nocookie.com/embed/Ehb7w20qoRY?controls=0"
-]
+{
+    "amount": 2,
+    "1": "https://www.youtube-nocookie.com/embed/K_Fb7EEL2eQ?controls=0",
+    "2": "https://www.youtube-nocookie.com/embed/Ehb7w20qoRY?controls=0"
+}
